@@ -22,4 +22,4 @@ No idea if it'll work on other computers, but it works for me.
 
 `vec2.c`: Small header library for working with 2d vectors.
 
-`svg.c`, `svg.h`, `fakesvg.h`: These are for saving SVGs with debug data. `fakesvg.h` is a dummy version of `svg.h` that disables SVG outputs to avoid extra IO.
+`svg.c`, `svg.h`, `svgfake.h`: These are for saving SVGs with debug data. `svgfake.h` is a dummy version of `svg.h` that disables SVG outputs to avoid extra IO.
